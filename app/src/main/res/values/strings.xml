@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">delhi_metro</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_route">ROUTE</string>
+    <string name="title_activity_fare">FARE</string>
+    <string name="title_activity_duration">DURATION</string>
+    <string name="title_activity_outlets">OUTLETS</string>
+    <string name="title_activity_map">MAP</string>
+    <string name="title_activity_help">HELP</string>
+    <string name="title_activity_display">display</string>
+    <string name="title_activity_display_fd">display_fd</string>
+    <string name="title_activity_map_out">map_out</string>
+    <string name="title_activity_submit">submit</string>
+</resources>
